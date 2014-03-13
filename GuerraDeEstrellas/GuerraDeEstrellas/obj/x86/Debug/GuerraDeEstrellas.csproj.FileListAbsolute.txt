@@ -1,0 +1,29 @@
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.BancoPreguntas.resources
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Juego.resources
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Pregunta.resources
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.RegistroJug.resources
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Properties.Resources.resources
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\BdeDPreguntas.mdb
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.exe.config
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.exe
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.pdb
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.exe
+C:\Documents and Settings\daniel\my documents\visual studio 2010\Projects\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.pdb
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.exe.config
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.exe
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.pdb
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.exe.config
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.exe
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.pdb
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\BdeDPreguntas.mdb
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.exe
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\bin\Debug\GuerraDeEstrellas.pdb
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.BancoPreguntas.resources
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Juego.resources
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Pregunta.resources
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.RegistroJug.resources
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.Properties.Resources.resources
+C:\Users\dani\Desktop\Programas\C#\GuerraDeEstrellas\GuerraDeEstrellas\obj\x86\Debug\GuerraDeEstrellas.csproj.GenerateResource.Cache
